@@ -1,0 +1,10 @@
+#team {
+  background-color: #f9f9f9;
+}
+.team-thumb{
+  background:#ffffff;
+}
+.team-thumb > img {
+  margin:auto;
+  height:400px;
+}
